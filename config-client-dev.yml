@@ -1,6 +1,3 @@
-server:
-  port: 7778 # 端口
-
 spring:
   application:
     name: config-client # 应用名称
