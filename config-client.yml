@@ -6,4 +6,4 @@ spring:
     name: config-client # 应用名称
 
 # 自定义配置
-name: '{cipher}dc9de2f2ba329d46792c944f62de4ea10d25b4f54ffe154c6c4ba4fcd31f9a09%'
+name: '{cipher}dc9de2f2ba329d46792c944f62de4ea10d25b4f54ffe154c6c4ba4fcd31f9a09'
